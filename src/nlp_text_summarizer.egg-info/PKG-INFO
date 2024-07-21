@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: nlp_text_summarizer
+Version: 0.0.0
+Summary: A Natural Language Processing project to summarize text
+Home-page: https://github.com/alizahir23/nlp_text_summarizer
+Author: alizahir23
+Author-email: alizahiruddin@gmail.com
+Project-URL: Bug Tracker, https://github.com/alizahir23/nlp_text_summarizer/issues
+Description-Content-Type: text/markdown
