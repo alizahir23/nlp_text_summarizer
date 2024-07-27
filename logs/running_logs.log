@@ -35,3 +35,71 @@ Source-Age: 0
 [2024-07-27 16:22:08,333: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-07-27 17:07:48,852: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-27 17:07:48,859: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-27 17:07:48,868: INFO: common: Directory: artifacts created successfully]
+[2024-07-27 17:07:48,870: INFO: common: Directory: artifacts/data_validation created successfully]
+[2024-07-27 17:16:08,971: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-27 17:16:08,989: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-27 17:16:08,992: INFO: common: Directory: artifacts created successfully]
+[2024-07-27 17:16:08,992: INFO: common: Directory: artifacts/data_validation created successfully]
+[2024-07-27 17:21:59,634: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-27 17:21:59,637: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-27 17:21:59,638: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-27 17:21:59,639: INFO: common: Directory: artifacts created successfully]
+[2024-07-27 17:21:59,639: INFO: common: Directory: artifacts/data_ingestion created successfully]
+[2024-07-27 17:21:59,640: INFO: data_ingestion: File already exists of size: 7718.35 KB]
+[2024-07-27 17:21:59,786: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-27 17:21:59,786: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-27 17:21:59,788: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-27 17:21:59,789: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-27 17:21:59,789: INFO: common: Directory: artifacts created successfully]
+[2024-07-27 17:21:59,789: INFO: common: Directory: artifacts/data_validation created successfully]
+[2024-07-27 17:21:59,791: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-27 17:23:41,981: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-27 17:23:41,983: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-27 17:23:41,984: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-27 17:23:41,984: INFO: common: Directory: artifacts created successfully]
+[2024-07-27 17:23:41,985: INFO: common: Directory: artifacts/data_ingestion created successfully]
+[2024-07-27 17:23:43,853: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 19C0:0DDA:F4B28A:101CABB:66A4F47D
+Accept-Ranges: bytes
+Date: Sat, 27 Jul 2024 14:23:43 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10571-MRS
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1722090223.031374,VS0,VE165
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 241f3022c122a0f6bb2b558147774c1f030afdf6
+Expires: Sat, 27 Jul 2024 14:28:43 GMT
+Source-Age: 0
+
+]
+[2024-07-27 17:23:44,003: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-27 17:23:44,003: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-27 17:23:44,005: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-27 17:23:44,005: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-27 17:23:44,005: INFO: common: Directory: artifacts created successfully]
+[2024-07-27 17:23:44,005: INFO: common: Directory: artifacts/data_validation created successfully]
+[2024-07-27 17:23:44,007: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
