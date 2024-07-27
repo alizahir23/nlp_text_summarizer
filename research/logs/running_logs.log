@@ -1,0 +1,36 @@
+[2024-07-24 16:47:28,859: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-24 16:47:28,863: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-24 16:47:28,867: INFO: common: Directory: artifacts created successfully]
+[2024-07-24 16:47:28,868: INFO: common: Directory: artifacts/data_ingestion created successfully]
+[2024-07-24 16:47:31,737: INFO: 1434958058: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 88BE:2AC742:8BDDBE:92BAB5:66A105F0
+Accept-Ranges: bytes
+Date: Wed, 24 Jul 2024 13:47:30 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs1050094-MRS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1721828850.185766,VS0,VE782
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: dc7f9837d6ebcf6fa205849b984b363f08e8d6ea
+Expires: Wed, 24 Jul 2024 13:52:30 GMT
+Source-Age: 1
+
+]
+[2024-07-27 16:01:50,947: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-27 16:01:50,965: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-27 16:01:50,972: INFO: common: Directory: artifacts created successfully]
+[2024-07-27 16:01:50,975: INFO: common: Directory: artifacts/data_ingestion created successfully]
+[2024-07-27 16:01:50,984: INFO: 1434958058: File already exists of size: 7718.35 KB]
