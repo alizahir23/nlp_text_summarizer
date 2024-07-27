@@ -34,3 +34,8 @@ Source-Age: 1
 [2024-07-27 16:01:50,972: INFO: common: Directory: artifacts created successfully]
 [2024-07-27 16:01:50,975: INFO: common: Directory: artifacts/data_ingestion created successfully]
 [2024-07-27 16:01:50,984: INFO: 1434958058: File already exists of size: 7718.35 KB]
+[2024-07-27 19:30:32,001: INFO: config: PyTorch version 2.2.2 available.]
+[2024-07-27 19:30:40,774: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-27 19:30:40,799: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-27 19:30:40,801: INFO: common: Directory: artifacts created successfully]
+[2024-07-27 19:30:40,802: INFO: common: Directory: artifacts/data_transformation created successfully]
