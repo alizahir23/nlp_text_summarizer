@@ -47,7 +47,7 @@ try:
    # Uncomment the following line to run the model trainer stage. 
    # Commented the following line to skip the model trainer stage due to limited resources. 
    
-   # model_trainer.main()
+   model_trainer.main()
    logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
 except Exception as e:
         logger.exception(e)
@@ -62,7 +62,7 @@ try:
    # Uncomment the following line to run the model trainer stage. 
    # Commented the following line to skip the model trainer stage due to limited resources. 
    
-#    model_evaluation.main()
+   model_evaluation.main()
    logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
 except Exception as e:
         logger.exception(e)
